@@ -1,0 +1,75 @@
+<section class="elementor-section elementor-top-section elementor-element elementor-element-19bfa0d elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19bfa0d" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1091px; left: -80.6px;">
+    <div class="elementor-container elementor-column-gap-extended">
+       <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e4bb37a" data-id="e4bb37a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+          <div class="elementor-widget-wrap elementor-element-populated">
+             <section class="elementor-section elementor-inner-section elementor-element elementor-element-599615c elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="599615c" data-element_type="section">
+                <div class="elementor-container elementor-column-gap-extended">
+                   <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7cbf372" data-id="7cbf372" data-element_type="column">
+                      <div class="elementor-widget-wrap elementor-element-populated">
+                         <div class="elementor-element elementor-element-2edc64c elementor-widget elementor-widget-heading animated slide-up" data-id="2edc64c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slide-up&quot;}" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                               <h2 class="elementor-heading-title elementor-size-default">Bắt đầu học miễn phí</h2>
+                            </div>
+                         </div>
+                         <div class="elementor-element elementor-element-7c18688 elementor-widget elementor-widget-heading animated slide-up" data-id="7c18688" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slide-up&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                               <h2 class="elementor-heading-title elementor-size-default">
+                               </h2>
+                            </div>
+                         </div>
+                         <div class="elementor-element elementor-element-e5bdf3f elementor-widget elementor-widget-button animated slide-up" data-id="e5bdf3f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slide-up&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="button.default">
+                            <div class="elementor-widget-container">
+                               <div class="elementor-button-wrapper">
+                                  <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                  <span class="elementor-button-content-wrapper">
+                                  <span class="elementor-button-text">Tìm khóa học</span>
+                                  </span>
+                                  </a>
+                               </div>
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                   <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8dee4f9 elementor-hidden-mobile" data-id="8dee4f9" data-element_type="column">
+                      <div class="elementor-widget-wrap elementor-element-populated">
+                         <div class="elementor-element elementor-element-5b8fea1 elementor-widget elementor-widget-apus_element_revslider" data-id="5b8fea1" data-element_type="widget" data-widget_type="apus_element_revslider.default">
+                            <div class="elementor-widget-container">
+                               <div class="widget-revslider ">
+                                  <!-- START Slider 9 REVOLUTION SLIDER 6.5.12 -->
+                                  
+                                  <rs-module-wrap id="rev_slider_4_1_wrapper" data-source="gallery" style="visibility: visible; background: transparent; padding: 0px; margin: 0px auto; height: 580px; display: block; width: auto; overflow: visible; transform: translate(0px, 0px); top: 0px;"><rs-module id="rev_slider_4_1" style="height: 580px; left: 0px; width: 501px;" data-version="6.5.12" data-idcheck="true" class="revslider-initialised rev_redraw_on_blurfocus" data-slideactive="rs-4">
+                                        
+                                     <rs-slides style="visibility: visible; max-height: none; height: 100%; width: 100%; overflow: hidden;">
+                                           <rs-slide style="position: absolute; overflow: hidden; height: 100%; width: 100%; z-index: 20; opacity: 1; visibility: inherit;" data-key="rs-4" data-title="Slide" data-in="o:0;" data-out="a:false;" data-originalindex="1" data-origindex="0" data-description="" data-sba="" data-scroll-based="false" data-owidth="300" data-oheight="200" data-rspausetimeronce="0" data-isactiveslide="true"><rs-sbg-px><rs-sbg-wrap data-key="rs-4" data-owidth="300" data-oheight="200"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img decoding="async" src="//demoapus1.com/educrat/learnpress/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Home 3" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//demoapus1.com/educrat/learnpress/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-parallax="off" data-no-retina="">--><rs-sbg data-lazyload="//demoapus1.com/educrat/learnpress/wp-content/plugins/revslider/public/assets/assets/transparent.png" class="" data-bgcolor="transparent" style="width: 100%; height: 100%;" data-src-rs-ref="//demoapus1.com/educrat/learnpress/wp-content/plugins/revslider/public/assets/assets/transparent.png"><canvas style="width: 100%; height: 100%; background-color: transparent; opacity: 1; filter: none;" width="501" height="580"></canvas></rs-sbg></rs-sbg-wrap></rs-sbg-px>
+                                              
+                                              <!--
+                                                 -->
+                                              <rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 29px; top: -32px; z-index: 5; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-4-slide-4-layer-0" data-type="image" data-rsp_ch="on" data-xy="xo:29px;yo:-32px;" data-text="w:normal;" data-dim="w:['523px','523px','523px','523px'];h:['590px','590px','590px','590px'];" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="st:230;sp:600;sR:230;" data-frame_999="o:0;st:w;sR:8170;" style="z-index: 5; color: rgb(255, 255, 255); width: 523px; height: 590px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true"><img decoding="async" loading="lazy" src="//demoapus1.com/educrat/learnpress/wp-content/uploads/2022/07/home9-1.png" alt="" class="tp-rs-img rs-lazyload" width="523" height="590" data-lazyload="//demoapus1.com/educrat/learnpress/wp-content/uploads/2022/07/home9-1.png" data-no-retina="" data-reference="//demoapus1.com/educrat/learnpress/wp-content/uploads/2022/07/home9-1.png" data-src-rs-ref="//demoapus1.com/educrat/learnpress/wp-content/uploads/2022/07/home9-1.png" style="position: relative; height: 100%; width: 100%;"> 
+                                              </rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap>
+                                              <!--
+                                                 --><rs-layer-wrap class="rs-parallax-wrap tp-parallax-container" style="position: absolute; display: block; pointer-events: auto; left: 45px; top: 155px; z-index: 6; transform: translate(0px, 0px); visibility: visible; perspective: 601px;" data-parallaxlevel="5"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><a id="slider-4-slide-4-layer-1" class="rs-layer rs-pxl-1" href="#" target="_self" data-type="image" data-rsp_ch="on" data-xy="xo:45px;yo:155px;" data-text="w:normal;" data-dim="w:['108px','108px','108px','108px'];h:['108px','108px','108px','108px'];" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="st:690;sp:600;sR:690;" data-frame_999="o:0;st:w;sR:7710;" style="z-index: 6; color: rgb(255, 255, 255); width: 108px; height: 108px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" data-idcheck="true" data-stylerecorder="true" data-initialised="true"><img decoding="async" loading="lazy" src="//demoapus1.com/educrat/learnpress/wp-content/uploads/2022/07/home9-2.png" alt="" class="tp-rs-img rs-lazyload" width="108" height="108" data-lazyload="//demoapus1.com/educrat/learnpress/wp-content/uploads/2022/07/home9-2.png" data-no-retina="" data-reference="//demoapus1.com/educrat/learnpress/wp-content/uploads/2022/07/home9-2.png" data-src-rs-ref="//demoapus1.com/educrat/learnpress/wp-content/uploads/2022/07/home9-2.png" style="position: relative; height: 100%; width: 100%;"> 
+                                              </a></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><!--
+                                                 --><rs-layer-wrap class="rs-parallax-wrap tp-parallax-container" style="position: absolute; display: block; pointer-events: auto; left: 390px; top: 129px; z-index: 7; transform: translate(0px, 0px); visibility: visible; perspective: 601px;" data-parallaxlevel="5"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><a id="slider-4-slide-4-layer-2" class="rs-layer rs-pxl-1" href="#" target="_self" data-type="image" data-rsp_ch="on" data-xy="xo:390px;yo:129px;" data-text="w:normal;" data-dim="w:['108px','108px','108px','108px'];h:['108px','108px','108px','108px'];" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="st:1320;sp:600;sR:1320;" data-frame_999="o:0;st:w;sR:7080;" style="z-index: 7; color: rgb(255, 255, 255); width: 108px; height: 108px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" data-idcheck="true" data-stylerecorder="true" data-initialised="true"><img decoding="async" loading="lazy" src="//demoapus1.com/educrat/learnpress/wp-content/uploads/2022/07/home9-4.png" alt="" class="tp-rs-img rs-lazyload" width="108" height="108" data-lazyload="//demoapus1.com/educrat/learnpress/wp-content/uploads/2022/07/home9-4.png" data-no-retina="" data-reference="//demoapus1.com/educrat/learnpress/wp-content/uploads/2022/07/home9-4.png" data-src-rs-ref="//demoapus1.com/educrat/learnpress/wp-content/uploads/2022/07/home9-4.png" style="position: relative; height: 100%; width: 100%;"> 
+                                              </a></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><!--
+                                                 --><rs-layer-wrap class="rs-parallax-wrap tp-parallax-container" style="position: absolute; display: block; pointer-events: auto; left: 327px; top: 430px; z-index: 8; transform: translate(0px, 0px); visibility: visible; perspective: 601px;" data-parallaxlevel="5"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; transform-origin: 50% 50%; transform: translate(0px, 0px); overflow: hidden;"><a id="slider-4-slide-4-layer-3" class="rs-layer rs-pxl-1" href="#" target="_self" data-type="image" data-rsp_ch="on" data-xy="xo:327px;yo:430px;" data-text="w:normal;" data-dim="w:['108px','108px','108px','108px'];h:['108px','108px','108px','108px'];" data-frame_0="y:100%;" data-frame_0_mask="u:t;" data-frame_1="st:1860;sp:500;sR:1860;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6640;" style="z-index: 8; color: rgb(255, 255, 255); width: 108px; height: 108px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" data-idcheck="true" data-stylerecorder="true" data-initialised="true"><img decoding="async" loading="lazy" src="//demoapus1.com/educrat/learnpress/wp-content/uploads/2022/07/home9-3.png" alt="" class="tp-rs-img rs-lazyload" width="108" height="108" data-lazyload="//demoapus1.com/educrat/learnpress/wp-content/uploads/2022/07/home9-3.png" data-no-retina="" data-reference="//demoapus1.com/educrat/learnpress/wp-content/uploads/2022/07/home9-3.png" data-src-rs-ref="//demoapus1.com/educrat/learnpress/wp-content/uploads/2022/07/home9-3.png" style="position: relative; height: 100%; width: 100%;"> 
+                                              </a></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><!--
+                                                 -->						
+                                           </rs-slide>
+                                        </rs-slides><rs-progress style="visibility:hidden;"><rs-progress-bar style="background: rgba(255, 255, 255, 0.5);"></rs-progress-bar></rs-progress></rs-module>
+                                     
+                                     <script>
+                                        setREVStartSize({c: 'rev_slider_4_1',rl:[1920,1601,1025,480],el:[580,580,580,720],gw:[500,500,500,500],gh:[580,580,580,580],type:'standard',justify:'',layout:'fullwidth',mh:"0"});if (window.RS_MODULES!==undefined && window.RS_MODULES.modules!==undefined && window.RS_MODULES.modules["revslider41"]!==undefined) {window.RS_MODULES.modules["revslider41"].once = false;window.revapi4 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()}
+                                     </script>
+                                  </rs-module-wrap>
+                                  <!-- END REVOLUTION SLIDER -->
+                               </div>
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                </div>
+             </section>
+          </div>
+       </div>
+    </div>
+ </section>

@@ -1,0 +1,27 @@
+﻿.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pagination li {
+    margin: 0 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.pagination li a {
+    font-size: 20px;
+    padding: 10px 15px;
+    color:black;
+}
+
+.pagination li.active a {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.pagination li.disabled a {
+    color: #aaa;
+    pointer-events: none;
+}
